@@ -1,2 +1,2 @@
 # MY-FIRST-REPO
-HELLO WORLD
+the first repo in posh git
